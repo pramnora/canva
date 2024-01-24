@@ -12,8 +12,9 @@ Canva, is FREE graphic software you can use online.
 
 It is used to create graphics for...   
 
-- creating web sites  
+- documents  
 - posters  
+- web sites  
 - etc.
 
 -(**NOTE**: The are, at least, two different options: FREE/and, paid for.)-  
